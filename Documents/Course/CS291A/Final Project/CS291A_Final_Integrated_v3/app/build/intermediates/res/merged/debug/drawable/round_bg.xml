@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/>
+    <stroke android:width="3dip" android:color="@android:color/white" />
+    <corners android:radius="10dip"/>
+    <padding android:left="0dip" android:top="0dip" android:right="0dip" android:bottom="0dip" />
+</shape><!-- From: file:/C:/Users/Zhenyu/Desktop/UCSB_2016_Fall/291I/voforia/vuforia-sdk-android-6-0-117/samples/CS291A_Final_Integrated_v3/app/src/main/res/drawable/round_bg.xml -->

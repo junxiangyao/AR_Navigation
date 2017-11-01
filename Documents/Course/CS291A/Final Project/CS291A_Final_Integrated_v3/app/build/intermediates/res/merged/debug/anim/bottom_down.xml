@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate android:fromYDelta="0%p" android:toYDelta="100%p" android:fillAfter="true"
+        android:interpolator="@android:anim/linear_interpolator"
+        android:duration="200" />
+</set><!-- From: file:/C:/Users/Zhenyu/Desktop/UCSB_2016_Fall/291I/voforia/vuforia-sdk-android-6-0-117/samples/CS291A_Final_Integrated_v3/app/src/main/res/anim/bottom_down.xml -->

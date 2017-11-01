@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/icon_plus_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/icon_plus_normal"/>
+
+</selector><!-- From: file:/C:/Users/Zhenyu/Desktop/UCSB_2016_Fall/291I/voforia/vuforia-sdk-android-6-0-117/samples/CS291A_Final_Integrated_v3/app/src/main/res/drawable/new_target_button_background.xml -->
